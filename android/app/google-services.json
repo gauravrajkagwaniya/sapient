@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164055118839",
+    "project_id": "todo-sepient",
+    "storage_bucket": "todo-sepient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164055118839:android:5bc5153e5e75473a1fb4f2",
+        "android_client_info": {
+          "package_name": "com.grk.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164055118839-jm3aimtacd094730kqeddbghkde8b7dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpF0DKdL_v4CtM3wEa2kjV3fSyeoOYzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164055118839-jm3aimtacd094730kqeddbghkde8b7dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
